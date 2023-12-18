@@ -3,5 +3,7 @@
 @section('title', 'Home')
 
 @section('content')
-    <h1>It's Alive!</h1>
+    <div class="container">
+        <h1>It's Alive!</h1>
+    </div>
 @endsection
